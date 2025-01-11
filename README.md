@@ -9,7 +9,7 @@ This repository contains the sample codes accompanying the following papers:
 
 # Usage
 
-These sample codes reproduce the stochastic simulations and the phase transitions in target estimation problem. 
+These sample codes reproduce the stochastic simulations and the phase transitions in the target estimation problem. 
 
 To obtain these results, run the following command in your terminal:
 
