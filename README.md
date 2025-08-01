@@ -1,4 +1,4 @@
-# Tottori2025OMSC
+# Tottori2025-OMSC
 This repository contains the sample codes accompanying the following papers:
 
 - **Takehiro Tottori and Tetsuya J. Kobayashi**, "Resource Limitations Induce Phase Transitions in Biological Information Processing," *arXiv:2409.14002* (2024).  
